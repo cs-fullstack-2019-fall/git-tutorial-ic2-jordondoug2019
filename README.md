@@ -7,3 +7,5 @@ Our Code School is a hands-on class designed to train individuals to be entry-le
 I decided to go to Code School because I wanted to make a difference in my community through technology.
 
 Practice Practice and more Practice! 
+
+More Practice and more practice. 
